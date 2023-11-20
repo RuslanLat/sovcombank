@@ -1,0 +1,19 @@
+session:
+  key: TLY7ythw4seJjYmBHwmv97GXX6k5DF67rLERSlMf92I=
+admin:
+  email: admin@admin.com
+  password: admin
+database:
+  host: localhost
+  port: 5432
+  user: todo_user
+  password: todo_pass
+  database: todo
+database_cloud:
+  host: 87.242.126.189
+  port: 5432
+  user: root
+  password: Rtunb892
+  database: postgres
+yandex_map_api:
+  key: ваш ключ от Yandex API
